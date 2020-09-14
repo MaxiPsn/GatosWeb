@@ -1,0 +1,31 @@
+html{
+    margin:0px;
+    padding: 0px;
+  }
+  body{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .header{
+    font-family: 'Lora', serif;
+    background-color: #FFE692;
+    background: linear-gradient(90deg,#FDDD6B,#FFE692);
+    border-bottom-style: solid;
+    border-bottom-color: #40397a;
+  }
+
+  #porque{
+    text-decoration: underline;
+  }
+
+  .footer-items-d{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+  }
+
+#footer {
+  background-color: #C8C7DB;
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
